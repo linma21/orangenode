@@ -42,7 +42,7 @@
     ]
   },
   "proxy": "http://localhost:8080",
-  "homepage" : " https://green-lotte2.github.io/community-site-front-team3/",
+  "homepage" : "https://linma21.github.io/orangenode/",
   "browserslist": {
     "production": [
       ">0.2%",
