@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/orangenode/static/css/main.3a2c4a8a.css",
+    "main.js": "/orangenode/static/js/main.1c864537.js",
+    "static/js/453.e6240efe.chunk.js": "/orangenode/static/js/453.e6240efe.chunk.js",
+    "index.html": "/orangenode/index.html",
+    "main.3a2c4a8a.css.map": "/orangenode/static/css/main.3a2c4a8a.css.map",
+    "main.1c864537.js.map": "/orangenode/static/js/main.1c864537.js.map",
+    "453.e6240efe.chunk.js.map": "/orangenode/static/js/453.e6240efe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a2c4a8a.css",
+    "static/js/main.1c864537.js"
+  ]
+}
